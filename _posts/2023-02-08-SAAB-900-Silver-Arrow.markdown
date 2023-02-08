@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Saab 900 Silver Arrow"
+title:  Saab 900 Silver Arrow
 date:   2023-02-08 21:42:51 +0100
 categories:
 ---
@@ -14,11 +14,7 @@ The SAAB 900 Silver Arrow was introduced in
 
 # Register
 
-| Brand | Type | Edition | Registration plate | State |
-| --- | --- | --- | --- | ---- |
-| SAAB | 900 | Silver Arrow | XX-01-YY | Daily driver | 
-| SAAB | 900 | Silver Arrow | ZZ-99-RT | Recycled | 
-
-
-
-
+| Brand | Type | Edition | # | Registration plate | State |
+| --- | --- | --- | --- | --- | ---- |
+| SAAB | 900 | Silver Arrow  | 46 | XX-01-YY | Daily driver | 
+| SAAB | 900 | Silver Arrow | 89 | ZZ-99-RT | Recycled | 
