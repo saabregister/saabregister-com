@@ -16,6 +16,8 @@ The following year in 1978, the model underwent further development and the "sau
 
 # Register
 
+Source: https://web.archive.org/https://saab900cdregister.com/99-finlandia-register/ 
+
 | # | Model year | Serial number | Country | License ### | Engine type | Color | Link |
 |---|---|---|---|---|---|---|---|
 | 001 | 1976 | 012697 | Sweden | JGK | injection auto | Blue | [link to details](https://saab900cdregister.com/1977-99-finlandia-012697/) |
