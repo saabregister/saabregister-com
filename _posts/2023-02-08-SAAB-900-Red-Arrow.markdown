@@ -6,13 +6,9 @@ categories:
 ---
 # SAAB 900 Red Arrow
 
-The Saab 900 Red Arrow was a sporty and stylish car that turned heads with its distinctive design and impressive performance. It was named after the red arrow symbol on its front grille and powered by a turbocharged engine that provided thrilling acceleration.
+A red 900 Turbo 8V two-door from 1987 or 1988 with a slant nose and a cool grey AirFlow body kit and a whale tail spoiler. They planned to make 150 of these, with 100 having the whale tail and SuperInca wheels and 50 without the whale tail and with 15-spoke Turbo85 wheels (because they didn't have enough expensive parts). The interior is tan cloth with a Carlsson steering wheel and manual side mirrors, windows, and no air conditioning. 
 
-This car was also equipped with a range of features that were ahead of its time, including a smooth 5-speed manual transmission, comfortable leather seats, and a high-quality sound system.
-
-While the Saab 900 Red Arrow was a thrill to drive, it also had a practical side. It offered ample cargo space and a spacious interior, making it a great choice for road trips or daily driving.
-
-In conclusion, the Saab 900 Red Arrow was a well-rounded car that combined style, performance, and practicality. It remains a classic among fans of the Swedish automaker and car enthusiasts alike.
+People sometimes call it the "poor man's Carlsson" because it has the same body kit but it's not color-coded, has a tan velour interior instead of leather, and has an outdated 8-valve turbo engine. This was just a way for the dealer to make some profit by making the last 8-valve versions look special. This was similar to the Swedish 900 T8 Special from 1989.
 
 ![SAAB 900 Red Arrow](/assets/images/900_red_arrow/header.png "SAAB 900 Red Arrow")
 
