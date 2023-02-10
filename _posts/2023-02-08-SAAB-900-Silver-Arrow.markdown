@@ -6,17 +6,11 @@ categories:
 ---
 # SAAB 900 Silver Arrow
 
-The Saab 900 Silver Arrow was a limited edition sports car produced by the Swedish automaker, Saab, between 1984 and 1987. This car was designed to showcase Saab's technical prowess and engineering capability, and was intended to be a high-performance, luxury vehicle that could compete with other European sports cars of the time.
+During the making of the Saab 900 Classic, some limited edition models came out, including the "Silver Arrow". This edition was just for the Dutch market and all Silver Arrows were delivered as silver 2-door sedans with Silver Arrow stripes and 15-inch Turbo 85 alloy wheels.
 
-The 900 Silver Arrow was based on the standard Saab 900, but it was modified and upgraded to be a true driver's car. The car featured a turbocharged engine that produced 160 horsepower, which was a significant increase over the standard 900. The engine was mated to a 5-speed manual transmission, which sent power to the front wheels. The Silver Arrow was also equipped with a number of performance-enhancing features, including a sport-tuned suspension, larger brakes, and wider tires.
+The inside of the car was made with personal touches, like a numbered sign on the glove box, a wooden steering wheel, and the first owner's initials on the gear knob. The Silver Arrow had a 2.0 8v turbo engine without a catalytic converter and could produce 155hp. It only came with a manual GM 45610 gearbox. 
 
-The exterior of the Silver Arrow was distinctive, with its sleek and aerodynamic bodywork that was designed to reduce drag and increase stability at high speeds. The car was finished in a unique silver paint scheme, which gave it its name. The interior of the Silver Arrow was also luxurious, with leather seats, a leather-wrapped steering wheel, and a premium audio system.
-
-Despite its high-performance capabilities, the 900 Silver Arrow was still a practical and comfortable vehicle. The spacious cabin was designed for long-distance travel, and the car was equipped with many of the features that Saab was known for, including ergonomic seats, a well-laid-out dashboard, and a distinctive Saab interior style.
-
-The Saab 900 Silver Arrow was a limited-production model, and only 6,737 were built. This made the car a rare and sought-after collector's item, and it remains a popular classic car today. The 900 Silver Arrow was the last model in Saab's long history of producing performance vehicles, and it remains an important part of the company's legacy.
-
-In conclusion, the Saab 900 Silver Arrow was a remarkable vehicle that blended high performance with practicality and luxury. It was a true driver's car, designed to deliver an unforgettable driving experience, and it remains a beloved classic that is remembered fondly by fans of the Swedish automaker.
+They made 150 Silver Arrows to start with and later made 50 more.
 
 ![SAAB 900 Silver Arrow](/assets/images/900_silver_arrow/header.png "SAAB 900 Silver Arrow")
 
