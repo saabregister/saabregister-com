@@ -39,7 +39,7 @@ Source: https://web.archive.org/http://home.planet.nl/~prin0995/Red_Arrow_Regist
 | 021 | Ter Apel | 03-03-2010 | 260.000 | Recycled |
 | 023 | Eindhoven | 17-01-2009 | 280.000 | Recycled |
 | 024 | Augustinusga | 24-05-2005 | 253.000 | |
-| 027 | Deutschland | 09-07-17 | unknown | |
+| 027 | Germany | 07-02-2026 | unknown | [JPPerformance](https://www.youtube.com/watch?v=2nT5mTzIKdQ) |
 | 028 | Antwerpen | 14-05-2008 | 165.000 | |
 | 029 | Eerbeek | 23-01-2002 | 201.721 | |
 | 030 | Apeldoorn | 07-02-2003 | 197.000 | |
