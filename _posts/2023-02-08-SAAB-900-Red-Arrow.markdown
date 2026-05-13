@@ -27,7 +27,7 @@ Source: https://web.archive.org/http://home.planet.nl/~prin0995/Red_Arrow_Regist
 | 004 | Dieren | 28-09-2006 | 245.000 | |
 | 006 | Vilnius, Litouwen | 03-07-2007 | 245.000 | |
 | 007 | Oostvoorne | 14-06-2011 | 209.500 | |
-| 008 | ????? | ???????? | ?????? | |
+| 008 | | | | |
 | 009 | Drenthe | 31-10-2021 | 320.000 | Project |
 | 010 | Amersfoort | 27-05-2008 | 383.000 | |
 | 011 | Amersfoort | 22-10-2003 | 173.767 | |
@@ -39,7 +39,7 @@ Source: https://web.archive.org/http://home.planet.nl/~prin0995/Red_Arrow_Regist
 | 021 | Ter Apel | 03-03-2010 | 260.000 | Recycled |
 | 023 | Eindhoven | 17-01-2009 | 280.000 | Recycled |
 | 024 | Augustinusga | 24-05-2005 | 253.000 | |
-| 027 | Germany | 07-02-2026 | unknown | [JPPerformance](https://www.youtube.com/watch?v=2nT5mTzIKdQ) |
+| 027 | Germany | 07-02-2026 | unknown | [JPPerformance](https://www.youtube.com/watchv=2nT5mTzIKdQ) |
 | 028 | Antwerpen | 14-05-2008 | 165.000 | |
 | 029 | Eerbeek | 23-01-2002 | 201.721 | |
 | 030 | Apeldoorn | 07-02-2003 | 197.000 | |
@@ -49,10 +49,10 @@ Source: https://web.archive.org/http://home.planet.nl/~prin0995/Red_Arrow_Regist
 | 034 | Rotterdam | 26-07-2008 | 180.000 | |
 | 035 | Lelystad | 29-12-2005 | 330.871 | |
 | 036 | Den Helder | 31-05-15 | 208.000 | Found on Autoscout |
-| 037 | Sint Odilienberg | 12-05-2026 | ????? | |
+| 037 | Sint Odilienberg | 12-05-2026 | | |
 | 038 | Wijk bij Duurstede | 12-12-2014 | 210.000 | |
 | 039 | Hengelo | 13-04-2009 | 241.560 | |
-| 040 | Haarlem | ????? | ??????? | |
+| 040 | Haarlem | | | |
 | 042 | Valkenburg a/d Geul | 09-02-2005 | 291.000 | |
 | 043 | Weelde, Belgie | 05-02-2014 | | |
 | 044 | Dieren | 28-09-2006 | 245.000 | |
@@ -81,12 +81,12 @@ Source: https://web.archive.org/http://home.planet.nl/~prin0995/Red_Arrow_Regist
 | 087 | Polen | 20-12-2021 | 300000 | Found at otomoto.pl |
 | 088 | Biezelinge | 25-06-18 | 331000 | |
 | 090 | Haarlem | 30-03-2003 | 135.000 | |
-| 092 | Winschoten | 23-09-2011 | ????? | |
-| 095 | den Haag | ?????? | ????? | |
+| 092 | Winschoten | 23-09-2011 | | |
+| 095 | Den Haag | | | |
 | 096 | Ratum | 13-01-2011 | 249.150 | |
-| 097 | Silvolde | 07-01-2011 | ????? | |
+| 097 | Silvolde | 07-01-2011 | | |
 | 098 | Katwijk aan Zee | 04-08-2007 | 355.300 | |
-| 099 | Friesland | 15-03-2011 | ????? | Recycled |
+| 099 | Friesland | 15-03-2011 | | Recycled |
 | 103 | Deventer | 27-01-2005 | 195.000 | |
 | 104 | Helmond | 14-08-2008 | | Recycled |
 | 105 | Dobrcz, Polen | 05-12-2013 | 189.150 | |
