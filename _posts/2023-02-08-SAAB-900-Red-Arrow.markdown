@@ -48,23 +48,23 @@ Source: https://web.archive.org/http://home.planet.nl/~prin0995/Red_Arrow_Regist
 | 033 | Rotselaar, Belgie | 01-11-2020 | 218.000 | |
 | 034 | Rotterdam | 26-07-2008 | 180.000 | |
 | 035 | Lelystad | 29-12-2005 | 330.871 | |
-| 036 | Den Helder | 31-5-15 | 208.000 | Found on Autoscout |
-| 037 | ???? | ????? | ????? | |
+| 036 | Den Helder | 31-05-15 | 208.000 | Found on Autoscout |
+| 037 | Sint Odilienberg | 12-05-2026 | ????? | |
 | 038 | Wijk bij Duurstede | 12-12-2014 | 210.000 | |
 | 039 | Hengelo | 13-04-2009 | 241.560 | |
 | 040 | Haarlem | ????? | ??????? | |
 | 042 | Valkenburg a/d Geul | 09-02-2005 | 291.000 | |
-| 043 | Weelde, Belgie | 5-2-2014 | | |
+| 043 | Weelde, Belgie | 05-02-2014 | | |
 | 044 | Dieren | 28-09-2006 | 245.000 | |
 | 045 | Zutphen | 12-07-2002 | 263.000 | |
 | 046 | Zoeterwoude | 30-01-2012 | 299.542 | Restored |
-| 047 | Belgie | 13-6-2008 | 297.000 | Recycled |
+| 047 | Belgie | 13-06-2008 | 297.000 | Recycled |
 | 049 | Roermond | 03-02-2006 | 320.000 | |
 | 051 | Enschede | 05-07-2005 | 288.500 | |
 | 052 | Groningen | 27-02-2003 | 196.000 | |
 | 055 | Dordrecht | 08-06-2010 | 270.000 | |
 | 059 | Deventer | 01-07-2010 | 265.000 | |
-| 061 | Praag, Tsjechië | 1-2-2021 | 120.000 | |
+| 061 | Praag, Tsjechië | 01-02-2021 | 120.000 | |
 | 062 | Hulst | 23-02-2006 | 210.000 | |
 | 064 | CZ Karlovy Vary | 11-02-2020 | 188.000 | |
 | 068 | Zeist/Bakel | 08-12-2003 | 220.000 | |
@@ -72,11 +72,11 @@ Source: https://web.archive.org/http://home.planet.nl/~prin0995/Red_Arrow_Regist
 | 071 | Nieuwveen | 20-02-2010 | 210.012 | |
 | 072 | Haarlem | 22-01-2002 | 493.000 | |
 | 075 | Te koop in Kaatsheuvel | 25-03-2007 | 162.000 | |
-| 078 | Gendt | 16-3-2021 | 162.000 | Last decade suspended |
-| 079 | Steenbergen | 5-12-2021 | 329.000 | Restored |
+| 078 | Gendt | 16-03-2021 | 162.000 | Last decade suspended |
+| 079 | Steenbergen | 05-12-2021 | 329.000 | Restored |
 | 081 | Hoogstraaten | 20-11-19 | 276000 | Restored |
-| 083 | Krakow, Polen | 11-5-2014 | 280.120 | |
-| 085 | | 31-5-15 | 418.559 | |
+| 083 | Krakow, Polen | 11-05-2014 | 280.120 | |
+| 085 | | 31-05-15 | 418.559 | |
 | 086 | Bad Arolsen, Deutschland | 05-10-17 | 304000 | |
 | 087 | Polen | 20-12-2021 | 300000 | Found at otomoto.pl |
 | 088 | Biezelinge | 25-06-18 | 331000 | |
